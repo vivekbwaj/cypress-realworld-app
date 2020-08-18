@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-cypressrealworldapp-dev-142150-authRole",
+            "UnauthRoleArn": "arn:aws:iam::316137363844:role/amplify-cypressrealworldapp-dev-142150-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::316137363844:role/amplify-cypressrealworldapp-dev-142150-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-cypressrealworldapp-dev-142150-deployment",
+            "UnauthRoleName": "amplify-cypressrealworldapp-dev-142150-unauthRole",
+            "StackName": "amplify-cypressrealworldapp-dev-142150",
+            "StackId": "arn:aws:cloudformation:us-east-1:316137363844:stack/amplify-cypressrealworldapp-dev-142150/690e6f70-e31a-11ea-8d40-0e4a688d3275",
+            "AmplifyAppId": "d2ojnil7jqe9cp"
+        },
+        "categories": {
+            "auth": {
+                "cypressrealworldapp3a466349": {}
+            }
+        }
+    }
+}
